@@ -1,5 +1,6 @@
 .section {
     padding: 30px 0;
+    color: #ffffff;
 }
 
 body {
@@ -8,6 +9,7 @@ body {
 
 .video {
     border: 5px solid #e74f28;
+    margin-bottom: 20px;
 }
 
 .header {
@@ -40,4 +42,20 @@ body {
     font-weight: 650;
     color: #ffffff;
     margin-bottom: 20px;
+}
+
+.feature {
+    margin: 60px auto;
+}
+
+.featre-box {
+    height: 160px;
+}
+
+.feature img {
+    margin-top: 40px;
+}
+
+.feature p {
+    margin-top: 20px;
 }
