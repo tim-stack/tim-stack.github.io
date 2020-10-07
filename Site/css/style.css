@@ -30,6 +30,7 @@ body {
 
 .form-btn {
     margin: 10px auto;
+    border: none;
     background-color: #e74f28;
 }
 
