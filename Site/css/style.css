@@ -53,10 +53,10 @@ body {
     height: 160px;
 }
 
-.feature img {
-    margin-top: 40px;
-}
-
 .feature p {
     margin-top: 20px;
+}
+
+.feature img {
+    margin-top: 40px;
 }
