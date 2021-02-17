@@ -8,7 +8,7 @@ body {
    }
 
 .video {
-    border: 5px solid #e74f28;
+    border: 5px solid #006eff;
     margin-bottom: 20px;
 }
 
@@ -24,14 +24,14 @@ body {
 }
 
 .form {
-    border: 5px solid #e74f28;
+    border: 5px solid #006eff;
     padding: 30px 20px;
 }
 
 .form-btn {
     margin: 10px auto;
     border: none;
-    background-color: #e74f28;
+    background-color: #006eff;
 }
 
 .form input {
@@ -53,8 +53,17 @@ body {
     height: 160px;
 }
 
+.feature-text {
+    color: #4c90e9;
+}
+
+.frst-top {
+    font-size: larger;
+}
+
 .feature p {
     margin-top: 20px;
+    font-size: larger;
 }
 
 .feature img {
